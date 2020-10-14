@@ -1,0 +1,17 @@
+C:\Users\erik.pinho\source\repos\Assessment\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.csprojAssemblyReference.cache
+C:\Users\erik.pinho\source\repos\Assessment\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\erik.pinho\source\repos\Assessment\AmigoBiblioteca\bin\Debug\AmigoBiblioteca.dll
+C:\Users\erik.pinho\source\repos\Assessment\AmigoBiblioteca\bin\Debug\AmigoBiblioteca.pdb
+C:\Users\erik.pinho\source\repos\Assessment\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.dll
+C:\Users\erik.pinho\source\repos\Assessment\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.pdb
+C:\Users\Erik\Downloads\Assessment_quasePronto\Assessment_quasePronto\AmigoBiblioteca\bin\Debug\AmigoBiblioteca.dll
+C:\Users\Erik\Downloads\Assessment_quasePronto\Assessment_quasePronto\AmigoBiblioteca\bin\Debug\AmigoBiblioteca.pdb
+C:\Users\Erik\Downloads\Assessment_quasePronto\Assessment_quasePronto\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.csprojAssemblyReference.cache
+C:\Users\Erik\Downloads\Assessment_quasePronto\Assessment_quasePronto\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.dll
+C:\Users\Erik\Downloads\Assessment_quasePronto\Assessment_quasePronto\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.pdb
+C:\Users\erik.pinho\Desktop\Erik_Stephanovich_AT_DR1\AmigoBiblioteca\bin\Debug\AmigoBiblioteca.dll
+C:\Users\erik.pinho\Desktop\Erik_Stephanovich_AT_DR1\AmigoBiblioteca\bin\Debug\AmigoBiblioteca.pdb
+C:\Users\erik.pinho\Desktop\Erik_Stephanovich_AT_DR1\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.csprojAssemblyReference.cache
+C:\Users\erik.pinho\Desktop\Erik_Stephanovich_AT_DR1\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\erik.pinho\Desktop\Erik_Stephanovich_AT_DR1\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.dll
+C:\Users\erik.pinho\Desktop\Erik_Stephanovich_AT_DR1\AmigoBiblioteca\obj\Debug\AmigoBiblioteca.pdb
